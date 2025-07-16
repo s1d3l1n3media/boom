@@ -1,0 +1,27 @@
+{
+  "name": "MyToken",
+  "symbol": "MTKN",
+  "description": "MyToken is a revolutionary Solana token!",
+  "seller_fee_basis_points": 0,
+  "image": "https://example.com/mytoken.png",
+  "external_url": "https://mytokenwebsite.com",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://example.com/mytoken.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "YourWalletPublicKeyHere",
+        "share": 100
+      }
+    ]
+  },
+  "socials": {
+    "twitter": "https://twitter.com/mytoken"
+  }
+}
