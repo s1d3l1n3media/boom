@@ -1,7 +1,7 @@
 {
   "name": "High PEPE",
   "symbol": "HIGHPEPE",
-  "description": "\"Join PEPE in buying HIGH and selling HIGH\"",
+  "description": "Join PEPE in buying HIGH and selling HIGH",
   "seller_fee_basis_points": 0,
   "image": "https://raw.githubusercontent.com/s1d3l1n3media/boom/main/8iywma8iywma8iyw.png",
   "external_url": "https://highpepe.com/",
@@ -24,5 +24,6 @@
         "share": 100
       }
     ]
-  }
+  },
+  "uri": "https://raw.githubusercontent.com/s1d3l1n3media/boom/main/token2.json"
 }
