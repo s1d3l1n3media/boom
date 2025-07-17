@@ -1,0 +1,28 @@
+{
+  "name": "High PEPE",
+  "symbol": "HIGHPEPE",
+  "description": "\"Join PEPE in buying HIGH and selling HIGH\"",
+  "seller_fee_basis_points": 0,
+  "image": "https://raw.githubusercontent.com/s1d3l1n3media/boom/main/lksafdaophdsf.png",
+  "external_url": "https://highpepe.com/",
+  "attributes": [
+    { "trait_type": "Chain", "value": "Solana" },
+    { "trait_type": "Category", "value": "Meme" },
+    { "trait_type": "Twitter", "value": "https://twitter.com/highpepe1" }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/s1d3l1n3media/boom/main/gfagarg.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "2E8DEEHw3pX3DF2QHgGBskUkGaJoFgzmRxc2pydqRXQC",
+        "share": 100
+      }
+    ]
+  }
+}
