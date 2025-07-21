@@ -1,0 +1,29 @@
+{
+  "name": "Fartcoin",
+  "symbol": "Fartcoin",
+  "description": "",
+  "seller_fee_basis_points": 0,
+  "image": "https://raw.githubusercontent.com/s1d3l1n3media/boom/main/fc.png",
+  "external_url": "https://x.com/FartCoinOfSOL",
+  "attributes": [
+    { "trait_type": "Chain", "value": "Solana" },
+    { "trait_type": "Category", "value": "Meme" },
+    { "trait_type": "Twitter", "value": "https://x.com/FartCoinOfSOL" }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/s1d3l1n3media/boom/main/fc.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "BiZXvDEMUpPNyKAYuB9BkYBVjvwbaNnUGhSuYXWP6AQN",
+        "share": 100
+      }
+    ]
+  },
+  "uri": "https://raw.githubusercontent.com/s1d3l1n3media/boom/main/token4.json"
+}
